@@ -1,4 +1,4 @@
-# Explore The World Blog.
+# Explore The World Blog
 
 ![Explore The World Blog](images/blog.png)
 
